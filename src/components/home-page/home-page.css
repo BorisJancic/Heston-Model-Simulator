@@ -1,0 +1,67 @@
+.info-page {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    top: 80%;
+    width: 100%;
+    position: fixed;
+    bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.split {
+    height: 70%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 10%;
+    overflow-x: hidden;
+    padding-top: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+  
+.left {
+    left: 0;
+    background-color: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left1 {
+    left: 0;
+    background-color: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.right {
+    right: 0;
+    background-color: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.right1 {
+    right: 0;
+    background-color: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+h1 {color: rgb(255, 228, 27);}
+.p {color: rgb(255, 228, 27);}
+
+
+
+Link:visited {color: yellow;}
+  

@@ -1,0 +1,82 @@
+.submit {
+    padding-left: 10%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 1em ;
+}
+
+.header {
+    color: rgb(39, 39, 39);
+}
+
+.input {
+    margin: 1rem auto; margin-top: 0;
+    border-radius: 0px; border-color: rgb(52, 147, 231); border-style: solid;
+    padding: 3pt;
+    font-size: 1em;
+}
+
+
+.value {
+    border-radius: 2px; border-style: solid;
+    border-color: black;
+    padding: .8rem;
+    margin: .3rem;
+    font-size: 1.2rem;
+    max-width: 300px;
+}
+
+#last { padding-bottom: 3rem; }
+
+.calculate {
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(52, 147, 231);
+    background-color: rgb(169, 198, 249);
+    
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 0px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.calculate:hover {
+    background-color: rgb(52, 147, 231);
+    border-color: rgb(169, 198, 249);
+}
+.calculate:active {
+    background-color: rgb(169, 198, 249);
+}
+.header {
+    margin-left: 20px;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+.table {
+    float: left;
+    width: 40%;
+    padding: 0.5rem;
+}
+
+th, td {
+    border: 1px solid rgb(67, 67, 67);
+    padding: 0.2rem
+  }
+  table {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }

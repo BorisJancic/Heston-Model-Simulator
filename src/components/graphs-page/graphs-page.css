@@ -1,0 +1,26 @@
+.left {
+    float: left;
+    width: 33%;
+    height: top;
+}
+
+.middle {
+    float: left;
+    width: 34%;
+    height: top;
+}
+
+.right {
+    float: left;
+    width: 33%;
+    height: top;
+}
+
+.column {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+#image {
+    width: 450px;
+}
