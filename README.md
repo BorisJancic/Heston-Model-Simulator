@@ -3,7 +3,7 @@
 
 ---
 
-Made using a ReactJS frontend and a Django (Python) backend
+Built using a ReactJS frontend and a Django (Python) backend
 
 ### Frontend
 Allows the user to select the input parameters involved in pricing an option like the ticker and time to expiration.  
