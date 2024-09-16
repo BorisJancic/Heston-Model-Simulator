@@ -1,5 +1,5 @@
 # Heston Model Option Simulator
-## Made in partnership with Thomas Hart
+## Made in partnership with [Thomas Hart](https://github.com/thomashart17)
 
 ---
 
