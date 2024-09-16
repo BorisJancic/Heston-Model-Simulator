@@ -6,8 +6,8 @@ const footer = () => {
   return (
     <footer> 
       <div>
-        <p class="name"></p><br />
-        <p class="name"></p>
+        <p class="name">Thomas Hart</p><br />
+        <p class="name">Boris Jancic</p>
       </div>
 
     </footer>
