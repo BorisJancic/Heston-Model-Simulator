@@ -10,7 +10,7 @@ Allows the user to select the input parameters involved in pricing an option lik
 Displays the stochastic simulation of the contract using both the Heston and Black Scholes models.  
 
 ### Backend
-Retrieves live data like interest rates and stock data.  
+Retrieves live data like interest rates and volatilities.  
 Computes stochastic simulations to price the option.  
-Returns price data and simulation walks.  
+Returns price data and simulation paths.  
 
